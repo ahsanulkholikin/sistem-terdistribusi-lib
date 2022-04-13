@@ -1,0 +1,6 @@
+c:\users\hsans\source\repos\AplikasiNonThread_1295\AplikasiNonThread_1295\bin\Debug\AplikasiNonThread_1295.exe.config
+c:\users\hsans\source\repos\AplikasiNonThread_1295\AplikasiNonThread_1295\bin\Debug\AplikasiNonThread_1295.exe
+c:\users\hsans\source\repos\AplikasiNonThread_1295\AplikasiNonThread_1295\bin\Debug\AplikasiNonThread_1295.pdb
+c:\users\hsans\source\repos\AplikasiNonThread_1295\AplikasiNonThread_1295\obj\Debug\AplikasiNonThread_1295.csproj.CoreCompileInputs.cache
+c:\users\hsans\source\repos\AplikasiNonThread_1295\AplikasiNonThread_1295\obj\Debug\AplikasiNonThread_1295.exe
+c:\users\hsans\source\repos\AplikasiNonThread_1295\AplikasiNonThread_1295\obj\Debug\AplikasiNonThread_1295.pdb

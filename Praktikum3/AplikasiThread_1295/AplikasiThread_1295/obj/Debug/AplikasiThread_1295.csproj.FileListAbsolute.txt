@@ -1,0 +1,7 @@
+c:\users\hsans\source\repos\AplikasiThread_1295\AplikasiThread_1295\bin\Debug\AplikasiThread_1295.exe.config
+c:\users\hsans\source\repos\AplikasiThread_1295\AplikasiThread_1295\bin\Debug\AplikasiThread_1295.exe
+c:\users\hsans\source\repos\AplikasiThread_1295\AplikasiThread_1295\bin\Debug\AplikasiThread_1295.pdb
+c:\users\hsans\source\repos\AplikasiThread_1295\AplikasiThread_1295\obj\Debug\AplikasiThread_1295.csprojAssemblyReference.cache
+c:\users\hsans\source\repos\AplikasiThread_1295\AplikasiThread_1295\obj\Debug\AplikasiThread_1295.csproj.CoreCompileInputs.cache
+c:\users\hsans\source\repos\AplikasiThread_1295\AplikasiThread_1295\obj\Debug\AplikasiThread_1295.exe
+c:\users\hsans\source\repos\AplikasiThread_1295\AplikasiThread_1295\obj\Debug\AplikasiThread_1295.pdb
