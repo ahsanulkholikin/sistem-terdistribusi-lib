@@ -1,0 +1,10 @@
+C:\Users\Hsans\source\repos\Praktikum6\Responsi\PelangiClient\PelangiClient\bin\Debug\PelangiClient.exe.config
+C:\Users\Hsans\source\repos\Praktikum6\Responsi\PelangiClient\PelangiClient\bin\Debug\PelangiClient.exe
+C:\Users\Hsans\source\repos\Praktikum6\Responsi\PelangiClient\PelangiClient\bin\Debug\PelangiClient.pdb
+C:\Users\Hsans\source\repos\Praktikum6\Responsi\PelangiClient\PelangiClient\obj\Debug\PelangiClient.csprojAssemblyReference.cache
+C:\Users\Hsans\source\repos\Praktikum6\Responsi\PelangiClient\PelangiClient\obj\Debug\PelangiClient.Form1.resources
+C:\Users\Hsans\source\repos\Praktikum6\Responsi\PelangiClient\PelangiClient\obj\Debug\PelangiClient.Properties.Resources.resources
+C:\Users\Hsans\source\repos\Praktikum6\Responsi\PelangiClient\PelangiClient\obj\Debug\PelangiClient.csproj.GenerateResource.cache
+C:\Users\Hsans\source\repos\Praktikum6\Responsi\PelangiClient\PelangiClient\obj\Debug\PelangiClient.csproj.CoreCompileInputs.cache
+C:\Users\Hsans\source\repos\Praktikum6\Responsi\PelangiClient\PelangiClient\obj\Debug\PelangiClient.exe
+C:\Users\Hsans\source\repos\Praktikum6\Responsi\PelangiClient\PelangiClient\obj\Debug\PelangiClient.pdb

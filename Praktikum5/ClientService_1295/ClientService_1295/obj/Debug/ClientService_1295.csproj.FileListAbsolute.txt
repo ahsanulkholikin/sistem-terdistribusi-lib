@@ -1,0 +1,10 @@
+C:\Users\Hsans\source\repos\Praktikum5\ClientService_1295\ClientService_1295\bin\Debug\ClientService_1295.exe.config
+C:\Users\Hsans\source\repos\Praktikum5\ClientService_1295\ClientService_1295\bin\Debug\ClientService_1295.exe
+C:\Users\Hsans\source\repos\Praktikum5\ClientService_1295\ClientService_1295\bin\Debug\ClientService_1295.pdb
+C:\Users\Hsans\source\repos\Praktikum5\ClientService_1295\ClientService_1295\obj\Debug\ClientService_1295.csprojAssemblyReference.cache
+C:\Users\Hsans\source\repos\Praktikum5\ClientService_1295\ClientService_1295\obj\Debug\ClientService_1295.Form1.resources
+C:\Users\Hsans\source\repos\Praktikum5\ClientService_1295\ClientService_1295\obj\Debug\ClientService_1295.Properties.Resources.resources
+C:\Users\Hsans\source\repos\Praktikum5\ClientService_1295\ClientService_1295\obj\Debug\ClientService_1295.csproj.GenerateResource.cache
+C:\Users\Hsans\source\repos\Praktikum5\ClientService_1295\ClientService_1295\obj\Debug\ClientService_1295.csproj.CoreCompileInputs.cache
+C:\Users\Hsans\source\repos\Praktikum5\ClientService_1295\ClientService_1295\obj\Debug\ClientService_1295.exe
+C:\Users\Hsans\source\repos\Praktikum5\ClientService_1295\ClientService_1295\obj\Debug\ClientService_1295.pdb
