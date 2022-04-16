@@ -1,0 +1,10 @@
+C:\Users\Hsans\source\repos\Praktikum4\AplikasiXML_1295\AplikasiXML_1295\bin\Debug\AplikasiXML_1295.exe.config
+C:\Users\Hsans\source\repos\Praktikum4\AplikasiXML_1295\AplikasiXML_1295\bin\Debug\AplikasiXML_1295.exe
+C:\Users\Hsans\source\repos\Praktikum4\AplikasiXML_1295\AplikasiXML_1295\bin\Debug\AplikasiXML_1295.pdb
+C:\Users\Hsans\source\repos\Praktikum4\AplikasiXML_1295\AplikasiXML_1295\obj\Debug\AplikasiXML_1295.csprojAssemblyReference.cache
+C:\Users\Hsans\source\repos\Praktikum4\AplikasiXML_1295\AplikasiXML_1295\obj\Debug\AplikasiXML_1295.Form1.resources
+C:\Users\Hsans\source\repos\Praktikum4\AplikasiXML_1295\AplikasiXML_1295\obj\Debug\AplikasiXML_1295.Properties.Resources.resources
+C:\Users\Hsans\source\repos\Praktikum4\AplikasiXML_1295\AplikasiXML_1295\obj\Debug\AplikasiXML_1295.csproj.GenerateResource.cache
+C:\Users\Hsans\source\repos\Praktikum4\AplikasiXML_1295\AplikasiXML_1295\obj\Debug\AplikasiXML_1295.csproj.CoreCompileInputs.cache
+C:\Users\Hsans\source\repos\Praktikum4\AplikasiXML_1295\AplikasiXML_1295\obj\Debug\AplikasiXML_1295.exe
+C:\Users\Hsans\source\repos\Praktikum4\AplikasiXML_1295\AplikasiXML_1295\obj\Debug\AplikasiXML_1295.pdb
