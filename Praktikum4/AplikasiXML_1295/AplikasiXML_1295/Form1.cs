@@ -103,6 +103,9 @@ namespace AplikasiXML_1295
                 row1["Penerbit"] = baris.Cells[2].Value;
                 ds.Tables["Buku"].Rows.Add(row1);
             }
+            ds.WriteXml("F:\\Katalog.xml");
+            MessageBox.Show("Data sudah tersimpan!", "info", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            bersihdata();
         }
 
         private void btnAmbil_Click(object sender, EventArgs e)

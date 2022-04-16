@@ -1,0 +1,33 @@
+<?xml-stylesheet type='text/xsl' href='Koleksi02.xsl'?>
+<Koleksi>
+  <Film>
+    <Judul>Captain Amerika: Civil War</Judul>
+    <Sutradara>Anthony Russo, Joe Russo</Sutradara>
+    <Genre>Superhero,action,fantasy</Genre>
+    <Pemain1>Scarlett Johansson</Pemain1>
+    <Pemain2>Robert Downey Jr</Pemain2>
+    <Pemain3>Chris Evans</Pemain3>
+    <Review>Film ini menceritakan bahwa Captain Amerika harus bertarung dengan IronMan karena kesalah pahaman</Review>
+    <Studio>Marvel Studio</Studio>
+  </Film>
+  <Film>
+    <Judul>Laskar Pelangi</Judul>
+    <Sutradara>Riri Riza</Sutradara>
+    <Genre>Slice of life</Genre>
+    <Pemain1>Cut Mini Ikranagara</Pemain1>
+    <Pemain2>Tora Sudiro</Pemain2>
+    <Pemain3>Slamet Rahardjo</Pemain3>
+    <Review>Laskar Pelangi (English: The Rainbow Troops) is a 2008 Indonesian drama film adapted from the popular eponymous novel by Andrea Hirata.</Review>
+    <Studio>Miles Films Mizan Production</Studio>
+  </Film>
+  <Film>
+    <Judul>Gundala</Judul>
+    <Sutradara>Joko Anwar</Sutradara>
+    <Genre>Superhero,Action</Genre>
+    <Pemain1>Abimana Aryasatya</Pemain1>
+    <Pemain2>Tara Basro</Pemain2>
+    <Pemain3>Bront Palarae</Pemain3>
+    <Review>Gundala is a 2019 Indonesian neo-noir superhero film based on the comics character Gundala created by Harya "Hasmi" Suraminata in 1969. The film was co-produced by Screenplay Films and Bumilangit Studios, and distributed by Legacy Pictures. It is the first installment in the Bumilangit Cinematic Universe (BCU).[5] The film is directed and written by Joko Anwar, and stars Abimana Aryasatya as Sancaka/Gundala, alongside Tara Basro, Bront Palarae, Ario Bayu, Cecep Arif Rahman, Rio Dewanto, and Muzakki Ramdhan.[6] In the film, Sancaka uses his superpowers to defeat the corrupt crime boss Pengkor. After his allies poison a large shipment of rice, Pengkor uses his undue political influence to force the local legislature's hand in passing a bill to approve the hasty production and distribution of an unproven antidote – unknowingly made by a pharmaceutical company he secretly owns – that will ultimately harm pregnant women.</Review>
+    <Studio>Screenplay Films</Studio>
+  </Film>
+</Koleksi>

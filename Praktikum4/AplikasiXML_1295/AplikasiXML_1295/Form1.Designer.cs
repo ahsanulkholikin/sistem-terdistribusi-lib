@@ -33,22 +33,25 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.btnTambah = new System.Windows.Forms.Button();
-            this.btnUbah = new System.Windows.Forms.Button();
-            this.btnHapus = new System.Windows.Forms.Button();
+            this.txtPenerbit = new System.Windows.Forms.TextBox();
+            this.txtJudul = new System.Windows.Forms.TextBox();
+            this.txtKode = new System.Windows.Forms.TextBox();
             this.dgv1 = new System.Windows.Forms.DataGridView();
+            this.btnHapus = new System.Windows.Forms.Button();
+            this.btnUbah = new System.Windows.Forms.Button();
+            this.btnTambah = new System.Windows.Forms.Button();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.btnSimpan = new System.Windows.Forms.Button();
             this.btnAmbil = new System.Windows.Forms.Button();
             this.txtId = new System.Windows.Forms.TextBox();
             this.txtNama = new System.Windows.Forms.TextBox();
             this.txtTelp = new System.Windows.Forms.TextBox();
             this.txtEmail = new System.Windows.Forms.TextBox();
-            this.txtKode = new System.Windows.Forms.TextBox();
-            this.txtJudul = new System.Windows.Forms.TextBox();
-            this.txtPenerbit = new System.Windows.Forms.TextBox();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgv1)).BeginInit();
             this.SuspendLayout();
@@ -108,52 +111,40 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Detail Buku";
             // 
-            // label5
+            // txtPenerbit
             // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(35, 29);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(60, 13);
-            this.label5.TabIndex = 0;
-            this.label5.Text = "Kode Buku";
+            this.txtPenerbit.Location = new System.Drawing.Point(119, 80);
+            this.txtPenerbit.Name = "txtPenerbit";
+            this.txtPenerbit.Size = new System.Drawing.Size(225, 20);
+            this.txtPenerbit.TabIndex = 9;
             // 
-            // label6
+            // txtJudul
             // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(35, 58);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(32, 13);
-            this.label6.TabIndex = 1;
-            this.label6.Text = "Judul";
+            this.txtJudul.Location = new System.Drawing.Point(119, 55);
+            this.txtJudul.Name = "txtJudul";
+            this.txtJudul.Size = new System.Drawing.Size(572, 20);
+            this.txtJudul.TabIndex = 8;
             // 
-            // label7
+            // txtKode
             // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(35, 83);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(46, 13);
-            this.label7.TabIndex = 2;
-            this.label7.Text = "Penerbit";
+            this.txtKode.Location = new System.Drawing.Point(119, 26);
+            this.txtKode.Name = "txtKode";
+            this.txtKode.Size = new System.Drawing.Size(100, 20);
+            this.txtKode.TabIndex = 7;
             // 
-            // btnTambah
+            // dgv1
             // 
-            this.btnTambah.Location = new System.Drawing.Point(38, 116);
-            this.btnTambah.Name = "btnTambah";
-            this.btnTambah.Size = new System.Drawing.Size(75, 23);
-            this.btnTambah.TabIndex = 3;
-            this.btnTambah.Text = "Tambah";
-            this.btnTambah.UseVisualStyleBackColor = true;
-            this.btnTambah.Click += new System.EventHandler(this.btnTambah_Click);
-            // 
-            // btnUbah
-            // 
-            this.btnUbah.Location = new System.Drawing.Point(119, 116);
-            this.btnUbah.Name = "btnUbah";
-            this.btnUbah.Size = new System.Drawing.Size(75, 23);
-            this.btnUbah.TabIndex = 4;
-            this.btnUbah.Text = "Ubah";
-            this.btnUbah.UseVisualStyleBackColor = true;
-            this.btnUbah.Click += new System.EventHandler(this.btnUbah_Click);
+            this.dgv1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgv1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Column1,
+            this.Column2,
+            this.Column3});
+            this.dgv1.Location = new System.Drawing.Point(38, 145);
+            this.dgv1.Name = "dgv1";
+            this.dgv1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
+            this.dgv1.Size = new System.Drawing.Size(653, 175);
+            this.dgv1.TabIndex = 6;
+            this.dgv1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.dgv1_MouseClick);
             // 
             // btnHapus
             // 
@@ -165,15 +156,52 @@
             this.btnHapus.UseVisualStyleBackColor = true;
             this.btnHapus.Click += new System.EventHandler(this.btnHapus_Click);
             // 
-            // dgv1
+            // btnUbah
             // 
-            this.dgv1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgv1.Location = new System.Drawing.Point(38, 145);
-            this.dgv1.Name = "dgv1";
-            this.dgv1.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgv1.Size = new System.Drawing.Size(653, 175);
-            this.dgv1.TabIndex = 6;
-            this.dgv1.MouseClick += new System.Windows.Forms.MouseEventHandler(this.dgv1_MouseClick);
+            this.btnUbah.Location = new System.Drawing.Point(119, 116);
+            this.btnUbah.Name = "btnUbah";
+            this.btnUbah.Size = new System.Drawing.Size(75, 23);
+            this.btnUbah.TabIndex = 4;
+            this.btnUbah.Text = "Ubah";
+            this.btnUbah.UseVisualStyleBackColor = true;
+            this.btnUbah.Click += new System.EventHandler(this.btnUbah_Click);
+            // 
+            // btnTambah
+            // 
+            this.btnTambah.Location = new System.Drawing.Point(38, 116);
+            this.btnTambah.Name = "btnTambah";
+            this.btnTambah.Size = new System.Drawing.Size(75, 23);
+            this.btnTambah.TabIndex = 3;
+            this.btnTambah.Text = "Tambah";
+            this.btnTambah.UseVisualStyleBackColor = true;
+            this.btnTambah.Click += new System.EventHandler(this.btnTambah_Click);
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(35, 83);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(46, 13);
+            this.label7.TabIndex = 2;
+            this.label7.Text = "Penerbit";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(35, 58);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(32, 13);
+            this.label6.TabIndex = 1;
+            this.label6.Text = "Judul";
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(35, 29);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(60, 13);
+            this.label5.TabIndex = 0;
+            this.label5.Text = "Kode Buku";
             // 
             // btnSimpan
             // 
@@ -223,26 +251,20 @@
             this.txtEmail.Size = new System.Drawing.Size(264, 20);
             this.txtEmail.TabIndex = 10;
             // 
-            // txtKode
+            // Column1
             // 
-            this.txtKode.Location = new System.Drawing.Point(119, 26);
-            this.txtKode.Name = "txtKode";
-            this.txtKode.Size = new System.Drawing.Size(100, 20);
-            this.txtKode.TabIndex = 7;
+            this.Column1.HeaderText = "Kode Buku";
+            this.Column1.Name = "Column1";
             // 
-            // txtJudul
+            // Column2
             // 
-            this.txtJudul.Location = new System.Drawing.Point(119, 55);
-            this.txtJudul.Name = "txtJudul";
-            this.txtJudul.Size = new System.Drawing.Size(572, 20);
-            this.txtJudul.TabIndex = 8;
+            this.Column2.HeaderText = "Judul Buku";
+            this.Column2.Name = "Column2";
             // 
-            // txtPenerbit
+            // Column3
             // 
-            this.txtPenerbit.Location = new System.Drawing.Point(119, 80);
-            this.txtPenerbit.Name = "txtPenerbit";
-            this.txtPenerbit.Size = new System.Drawing.Size(225, 20);
-            this.txtPenerbit.TabIndex = 9;
+            this.Column3.HeaderText = "Penerbit";
+            this.Column3.Name = "Column3";
             // 
             // Form1
             // 
@@ -294,6 +316,9 @@
         private System.Windows.Forms.TextBox txtPenerbit;
         private System.Windows.Forms.TextBox txtJudul;
         private System.Windows.Forms.TextBox txtKode;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
     }
 }
 

@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Pengarang>
+    <ID>P01</ID>
+    <Nama>Ahsannul Kholikin</Nama>
+    <Telepon>0876354658</Telepon>
+    <Email>admin@gmail.com</Email>
+  </Pengarang>
+  <Buku>
+    <Kode>111</Kode>
+    <Judul>Belajar koding 2022</Judul>
+    <Penerbit>Brebes jaya</Penerbit>
+  </Buku>
+  <Buku>
+    <Kode>112</Kode>
+    <Judul>Sistem Terdistribusi Modul 4</Judul>
+    <Penerbit>Amikom</Penerbit>
+  </Buku>
+  <Buku>
+    <Kode>113</Kode>
+    <Judul>Pancasila</Judul>
+    <Penerbit>Indonesia</Penerbit>
+  </Buku>
+  <Buku />
+</NewDataSet>
